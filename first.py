@@ -1,0 +1,2 @@
+print("zense")
+print("futorutokorosareru")
